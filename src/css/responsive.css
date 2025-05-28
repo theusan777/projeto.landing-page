@@ -74,12 +74,13 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 428px) {
  
     .cabecalho .logo {
         display: block;
         margin: 0 auto;
     }
+
 
     .cabecalho nav {
         position: static;
@@ -89,6 +90,7 @@
 
     .cabecalho nav ul li {
         display: block;
+
     }
 
      .cabecalho nav ul li a {
