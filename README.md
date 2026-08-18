@@ -7,11 +7,11 @@ Demo: https://theusan777.github.io/projeto.landing-page/
 ## Preview
 
 <p align="center">
-  <img src="./preview-hero.png" width="100%" />
+  <img src="./cafe_md.png " width="100%" />
 </p>
 
 <p align="center">
-  <img src="./preview-quem-somos.png" width="100%" />
+  <img src="./cafe_md.png" width="100%" />
 </p>
 
 ## Sobre o projeto
