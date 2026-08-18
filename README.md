@@ -7,13 +7,11 @@ Demo: https://theusan777.github.io/projeto.landing-page/
 ## Preview
 
 <p align="center">
-  <img src="<img width="1581" height="1198" alt="image" src="https://github.com/user-attachments/assets/834af105-561f-4e4c-a497-e2c299344ed7" />
-" width="100%" />
+  <img src="./preview-hero.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="<img width="1641" height="1222" alt="image" src="https://github.com/user-attachments/assets/1f9acf24-8daf-4af6-8798-9db823b57aff" />
-" width="100%" />
+  <img src="./preview-quem-somos.png" width="100%" />
 </p>
 
 ## Sobre o projeto
